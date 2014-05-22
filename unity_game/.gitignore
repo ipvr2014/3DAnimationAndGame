@@ -28,6 +28,7 @@ sfs/RemoteSystemsTempFiles
 sfs/MyExtension/bin
 unity_game/*.pidb
 *.pidb
+RandomMaze.txt
 *.csproj
 *.unityproj
 *.sln
