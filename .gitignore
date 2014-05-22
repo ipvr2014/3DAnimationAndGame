@@ -26,6 +26,7 @@ Temp
 sfs/.metadata
 sfs/RemoteSystemsTempFiles
 sfs/MyExtension/bin
+unity_game/*.pidb
 *.csproj
 *.unityproj
 *.sln
